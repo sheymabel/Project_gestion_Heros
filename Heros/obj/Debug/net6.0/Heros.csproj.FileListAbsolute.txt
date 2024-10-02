@@ -1,0 +1,4 @@
+C:\Users\MSI\source\repos\GestionHeros\Heros\obj\Debug\net6.0\Heros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\GestionHeros\Heros\obj\Debug\net6.0\Heros.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\GestionHeros\Heros\obj\Debug\net6.0\Heros.AssemblyInfo.cs
+C:\Users\MSI\source\repos\GestionHeros\Heros\obj\Debug\net6.0\Heros.csproj.CoreCompileInputs.cache
